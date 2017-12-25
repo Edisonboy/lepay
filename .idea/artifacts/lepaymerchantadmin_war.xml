@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lepaymerchantadmin:war">
+    <output-path>$PROJECT_DIR$/lepay-merchant/lepay-merchant-admin/target</output-path>
+    <root id="archive" name="lepay-merchant-admin.war">
+      <element id="artifact" artifact-name="lepaymerchantadmin:war exploded" />
+    </root>
+  </artifact>
+</component>

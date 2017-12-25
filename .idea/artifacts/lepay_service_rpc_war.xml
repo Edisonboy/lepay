@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lepay-service-rpc:war">
+    <output-path>$PROJECT_DIR$/lepay-service/lepay-service-rpc/target</output-path>
+    <root id="archive" name="lepay-service-rpc-1.0.0.war">
+      <element id="artifact" artifact-name="lepay-service-rpc:war exploded" />
+    </root>
+  </artifact>
+</component>

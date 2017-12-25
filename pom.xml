@@ -1,0 +1,30 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.lepay</groupId>
+  <artifactId>lepay</artifactId>
+  <version>1.0.0</version>
+  <packaging>pom</packaging>
+
+  <name>lepay</name>
+  <url>http://maven.apache.org</url>
+
+  <modules>
+    <module>lepay-common</module>
+    <module>lepay-gateway</module>
+    <module>lepay-reconciliation</module>
+    <module>lepay-settlement</module>
+    <module>lepay-trade</module>
+    <module>lepay-account</module>
+    <module>lepay-order</module>
+    <module>lepay-api</module>
+    <module>lepay-merchant</module>
+    <module>lepay-service</module>
+  </modules>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+</project>

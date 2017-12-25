@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lepay-account" />
+        <module name="lepay-api" />
+        <module name="lepay-common" />
+        <module name="lepay-gateway" />
+        <module name="lepay-merchant-admin" />
+        <module name="lepay-merchant-web" />
+        <module name="lepay-order" />
+        <module name="lepay-reconciliation" />
+        <module name="lepay-service-common" />
+        <module name="lepay-service-dao" />
+        <module name="lepay-service-rpc" />
+        <module name="lepay-service-rpc-api" />
+        <module name="lepay-settlement" />
+        <module name="lepay-trade" />
+        <module name="lepay-web-gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lepay" target="1.5" />
+      <module name="lepay-account" target="1.5" />
+      <module name="lepay-api" target="1.5" />
+      <module name="lepay-common" target="1.8" />
+      <module name="lepay-gateway" target="1.5" />
+      <module name="lepay-merchant" target="1.5" />
+      <module name="lepay-merchant-admin" target="1.5" />
+      <module name="lepay-merchant-web" target="1.5" />
+      <module name="lepay-order" target="1.5" />
+      <module name="lepay-reconciliation" target="1.5" />
+      <module name="lepay-service" target="1.5" />
+      <module name="lepay-service-admin" target="1.8" />
+      <module name="lepay-service-common" target="1.5" />
+      <module name="lepay-service-dao" target="1.5" />
+      <module name="lepay-service-rpc" target="1.5" />
+      <module name="lepay-service-rpc-api" target="1.5" />
+      <module name="lepay-settlement" target="1.5" />
+      <module name="lepay-trade" target="1.5" />
+      <module name="lepay-web-gateway" target="1.5" />
+      <module name="lepay-web-merchant" target="1.5" />
+      <module name="lepay-web-merchant-admin" target="1.5" />
+      <module name="lepaymerchantadmin" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

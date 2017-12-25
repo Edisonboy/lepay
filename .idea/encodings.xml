@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lepay-account" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lepay-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lepay-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lepay-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lepay-merchant" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lepay-merchant/lepay-merchant-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lepay-merchant/lepay-merchant-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lepay-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lepay-reconciliation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lepay-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lepay-service/lepay-service-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lepay-service/lepay-service-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lepay-service/lepay-service-rpc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lepay-service/lepay-service-rpc-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lepay-settlement" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lepay-trade" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lepay.iml" filepath="$PROJECT_DIR$/lepay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lepay-account/lepay-account.iml" filepath="$PROJECT_DIR$/lepay-account/lepay-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lepay-api/lepay-api.iml" filepath="$PROJECT_DIR$/lepay-api/lepay-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lepay-common/lepay-common.iml" filepath="$PROJECT_DIR$/lepay-common/lepay-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lepay-gateway/lepay-gateway.iml" filepath="$PROJECT_DIR$/lepay-gateway/lepay-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lepay-merchant/lepay-merchant.iml" filepath="$PROJECT_DIR$/lepay-merchant/lepay-merchant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lepay-merchant/lepay-merchant-admin/lepay-merchant-admin.iml" filepath="$PROJECT_DIR$/lepay-merchant/lepay-merchant-admin/lepay-merchant-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lepay-merchant/lepay-merchant-web/lepay-merchant-web.iml" filepath="$PROJECT_DIR$/lepay-merchant/lepay-merchant-web/lepay-merchant-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lepay-order/lepay-order.iml" filepath="$PROJECT_DIR$/lepay-order/lepay-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lepay-reconciliation/lepay-reconciliation.iml" filepath="$PROJECT_DIR$/lepay-reconciliation/lepay-reconciliation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lepay-service/lepay-service.iml" filepath="$PROJECT_DIR$/lepay-service/lepay-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lepay-service/lepay-service-common/lepay-service-common.iml" filepath="$PROJECT_DIR$/lepay-service/lepay-service-common/lepay-service-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lepay-service/lepay-service-dao/lepay-service-dao.iml" filepath="$PROJECT_DIR$/lepay-service/lepay-service-dao/lepay-service-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lepay-service/lepay-service-rpc/lepay-service-rpc.iml" filepath="$PROJECT_DIR$/lepay-service/lepay-service-rpc/lepay-service-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lepay-service/lepay-service-rpc-api/lepay-service-rpc-api.iml" filepath="$PROJECT_DIR$/lepay-service/lepay-service-rpc-api/lepay-service-rpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lepay-settlement/lepay-settlement.iml" filepath="$PROJECT_DIR$/lepay-settlement/lepay-settlement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lepay-trade/lepay-trade.iml" filepath="$PROJECT_DIR$/lepay-trade/lepay-trade.iml" />
+    </modules>
+  </component>
+</project>

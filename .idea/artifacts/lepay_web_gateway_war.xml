@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lepay-web-gateway:war">
+    <output-path>$PROJECT_DIR$/lepay-web-gateway/target</output-path>
+    <root id="archive" name="lepay-web-gateway.war">
+      <element id="artifact" artifact-name="lepay-web-gateway:war exploded" />
+    </root>
+  </artifact>
+</component>
